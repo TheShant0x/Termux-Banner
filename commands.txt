@@ -1,0 +1,5 @@
+pip install termux-banner
+banner
+box
+
+→ Your Banner Name (Iccha Onujayi Name)
